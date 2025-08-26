@@ -1,0 +1,14 @@
+﻿venv/
+**/__pycache__//
+logs/
+*.log
+*.pyc
+*.pyo
+*.egg-info/
+.env
+wwwroot/remote/*
+wwwroot/mygame/resource/*
+/.idea/
+/.vscode/
+.DS_Store
+Thumbs.db
